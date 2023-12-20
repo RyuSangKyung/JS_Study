@@ -4,5 +4,8 @@
 
 🎆Server : <img src="https://img.shields.io/badge/Node.Js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 
+🛠Tool : <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+
+Schedule_Log : 
 12.20 // 서버 구축
 코딩 애플님의 https://www.youtube.com/watch?v=Yn4fUo1i1-s&list=PLfLgtT94nNq1qmsvIii_CAxFlD7tvB5NE&index=8 를 보면서 만들었습니다.
