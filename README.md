@@ -8,4 +8,4 @@
 
 📜Schedule_Log : <br/>
   **12.20** // 서버 구축 <br/>
-    참조 - https://www.youtube.com/watch?v=Yn4fUo1i1-s&list=PLfLgtT94nNq1qmsvIii_CAxFlD7tvB5NE&index=8 (코딩 애플)
+    참조 - https://www.youtube.com/watch?v=HeOh-go-fYY&list=PLfLgtT94nNq1qmsvIii_CAxFlD7tvB5NE&index=6 (코딩 애플)
